@@ -1,0 +1,21 @@
+name: Me's Zone
+title: Me's ZONE
+tagline: Site Tagline
+author:
+	name: Name Lastname
+	email: test@test.test
+	github: username
+	twitter: username
+	feedburner: feedname
+
+exclude: []
+markdown: rdiscount
+pygments: true
+
+permalink: /:year/:month/:day/:title
+
+production_url: http://yevon.tk/
+
+theme: /assets/themes/default
+highlight_theme: /assets/highlight_themes/monokai.css
+
